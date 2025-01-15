@@ -1,0 +1,11 @@
+reset CSS : https://www.alura.com.br/artigos/o-que-e-reset-css?srsltid=AfmBOor1EUAf4Tv0k6swPhbLYrtFEj14SXKkiwvSsd3XEd4uLwQc-FrZ
+
+flexbox: https://cursos.alura.com.br/extra/alura-mais/css-flexbox-dicas-para-comecar-c301
+
+animação de coração like: https://cursos.alura.com.br/extra/alura-mais/animacao-de-coracao-um-projeto-em-html-css-c1360
+
+PROPIEDADE POSITION : https://www.alura.com.br/artigos/entenda-a-propriedade-position-css
+
+mais sobre MEDIA QUERYES CSS: https://www.alura.com.br/artigos/flexibilidade-em-paginas-para-dispositivos-moveis-com-media-queries
+
+artigo sobre layout responsivo : https://www.alura.com.br/artigos/por-que-um-design-responsivo-e-importante-para-potencializar-seu-marketing
